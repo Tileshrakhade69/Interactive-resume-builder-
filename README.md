@@ -1,4 +1,4 @@
-# Interactive-resume-builder-
+
 # Interactive Resume Builder
 
 An interactive web application that allows users to create a professional resume with a live preview. Users can enter their personal details, education, skills, projects, and experience, then generate a clean, printable resume instantly.
